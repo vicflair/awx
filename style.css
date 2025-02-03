@@ -55,6 +55,13 @@
   text-align: center!important; /* Changed from right to center */
 }
 
+.reportTable.numeric {
+  text-align: center!important;
+  padding: 0; /* Remove any padding that might be affecting alignment /
+  vertical-align: middle; / Center vertically as well, just in case */
+}
+
+
 th.headerCell {
   border-bottom: 1px solid #000000 !important;
   font-weight: bold;
