@@ -54,7 +54,7 @@
 }
 
 .reportTable .numeric {
-  text-align: center; /* Changed from right to center */
+  text-align: center!important; /* Changed from right to center */
 }
 
 th.headerCell {
@@ -205,5 +205,5 @@ th.headerCell {
 }
 
 body {
-  color: blue;
+  color: blue!important;
 }
