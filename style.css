@@ -203,3 +203,7 @@ th.headerCell {
   font-family: Open Sans,Helvetica,Arial,sans-serif;
   margin: 4px;
 }
+
+body {
+  color: blue;
+}
