@@ -61,6 +61,9 @@
   vertical-align: middle; / Center vertically as well, just in case */
 }
 
+.reportTable th {
+text-align: center; /* Center the text within header cells */
+}
 
 th.headerCell {
   border-bottom: 1px solid #000000 !important;
