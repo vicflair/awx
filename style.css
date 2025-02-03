@@ -96,10 +96,6 @@ th.headerCell {
   text-align: left;
 }
 
-.numeric {
-  text-align: right;
-}
-
 .negative {
   color: red;
 }
