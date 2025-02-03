@@ -62,7 +62,9 @@
 }
 
 .reportTable th {
-text-align: center; /* Center the text within header cells */
+  text-align: center!important;  /*!important might be necessary if other styles are interfering */
+}
+
 }
 
 th.headerCell {
