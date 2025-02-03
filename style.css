@@ -48,7 +48,7 @@
   font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
   border-collapse: separate;
   border-spacing: 3px;
-  table-layout: fixed;
+/*   table-layout: fixed; */
 }
 
 .reportTable .numeric {
